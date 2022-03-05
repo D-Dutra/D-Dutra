@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @D-Dutra
 - 👀 I’m interested in machine learning and data managment 
 - 🌱 I’m currently learning python , c++ and languages to web development
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can contact me by my linkdin link : https://www.linkedin.com/in/danielodutra
 
 <!---
